@@ -6,7 +6,7 @@ A complete full-stack application with frontend (Nginx), backend (Node.js), and 
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   Frontend  │────▶│   Backend   │────▶│  Database   │
+│   Frontend  │───▶│   Backend   │───▶│  Database   │
 │   (Nginx)   │     │  (Node.js)  │     │ (PostgreSQL)│
 │   Port 80   │     │  Port 3001  │     │  Port 5432  │
 └─────────────┘     └─────────────┘     └─────────────┘
